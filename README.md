@@ -1,1 +1,3 @@
-# google-audio-translator
+# audio-translator
+
+google sucks
